@@ -7,8 +7,9 @@ This kid is awesome.
 ## 编程
 ## 设计
 ## 摄影
-* AffinityPhoto (照片后期软件， 荣获 Apple 2015 年度最佳 Mac App）
-	* 一台湾哥们[学习笔记]([http://pala.tw/begin-to-learn-affinity-photo/])
+  * AffinityPhoto (照片后期软件， 荣获 Apple 2015 年度最佳 Mac App）
+    * 一台湾哥们[学习笔记]([http://pala.tw/begin-to-learn-affinity-photo/])
+
 ## 音乐
 ## 游戏
 ## 娱乐
