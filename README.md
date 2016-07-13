@@ -25,6 +25,7 @@
     * 一台湾哥们[学习笔记](http://pala.tw/begin-to-learn-affinity-photo/)
     * 国内中文[视频教程](http://tieba.baidu.com/p/4618299526)，持续更新中
   * Sketch
+
 ## 音乐
   * 喜欢哪些歌手： 许冠杰、beyond、任贤齐、周杰伦
   * Hooktheory app 乐理&编曲入门教程
