@@ -19,14 +19,16 @@
   * Weex
 
 ## 设计
-  * Procreate / Procreate Pocket
-  * Affinity Designer
+  * Procreate / Procreate Pocket 手机绘画app
+  * Affinity Designer PC 绘画设计软件
   * Affinity Photo (照片后期软件， 荣获 Apple 2015 年度最佳 Mac App）
     * 一台湾哥们[学习笔记](http://pala.tw/begin-to-learn-affinity-photo/)
     * 国内中文[视频教程](http://tieba.baidu.com/p/4618299526)，持续更新中
   * Sketch
 ## 音乐
   * 喜欢哪些歌手： 许冠杰、beyond、任贤齐、周杰伦
+  * Hooktheory app 乐理&编曲入门教程
+  * Garageband 软件
   * 吉他
  
 ## 游戏
