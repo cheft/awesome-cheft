@@ -1,7 +1,7 @@
 # Github 简明指南
 
 ## 它能做什么？
-* 搜索开源项目
+* 搜索
 * 学习知识
 * 社交
 * 项目协作
@@ -12,7 +12,7 @@
 * <del>`健身计划`</del>
 * <del>`寻找男票`</del>
 
-### 搜索开源项目
+### 搜索
   * 根据需要关键字搜索
 
     比如想找一个好用的 js 下拉组件，就搜索 javascript select，根据条件排序查看，然后对比选择
@@ -34,8 +34,29 @@
   * 但不限于编程知识，比如 [设计](https://github.com/jobbole/awesome-design-cn)、[Mac使用](https://github.com/jaywcjlove/awesome-mac)、[科学上网](https://github.com/getlantern/lantern) 等都有涉及
   * 更多知识请善用搜索
 
-* 社交
+## 社交
+  * Follow
+  * Watch
+  * Star
+  * Fork
 
+## 项目协作
+  * Code
+  * Issue
+  * Pull request
+
+## 写作出书
+  * 可以在写在代码仓库文件里 (方便管理和转移)
+  * 可以直接写在 Iusse 里(方便别人回复交流)
+  * 可以发布到 gitbook 中制作成电子书
+
+## 搭建网站
+  * 利用 Jekyll 搭建博客系统，又多了一种写作的途径
+  * 搭建静态的个人网站或公司网站
+
+## 简历招牌
+  * 目前很多企业会以 github 账号的情况打分
+  * 提高行业知名度
 
 ## 相关学习资料
 * [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -43,3 +64,4 @@
 * [计算机英语必备词汇](https://www.shanbay.com/wordbook/76237/)
 * [Awesome github](https://github.com/AntBranch/awesome-github)
 * [知乎精华贴](https://www.zhihu.com/question/20070065)
+* [Github上都有哪些有用但不为大家熟知的小功能](https://www.zhihu.com/question/36974348)
