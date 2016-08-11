@@ -6,6 +6,20 @@ Github 不仅仅是一个代码版本管理平台，更是一个知识分享、�
 
 ![同性交友](github99.jpg)
 
+## 平台界面简介
+* Dashboard
+* Profile
+* Settings
+* Showcases
+* Integrations
+* Trending
+* Stars
+* Code
+* Issues
+* Pull requests
+* Pulse
+* Graphs
+
 ## 它能做什么？
 * 搜索
 * 学习知识
@@ -14,9 +28,8 @@ Github 不仅仅是一个代码版本管理平台，更是一个知识分享、�
 * 写作出书
 * 搭建网站
 * 简历招牌
-* <del>`资料网盘`</del>
-* <del>`健身计划`</del>
-* <del>`寻找男票`</del>
+* <del>`资料网盘`</del>，_限制：单个仓库 1 G， 单个文件 100M_
+* <del>`健身计划`</del>，_一种信仰_
 
 ### 搜索
   * 根据需要关键字搜索
@@ -73,6 +86,8 @@ Github 不仅仅是一个代码版本管理平台，更是一个知识分享、�
   * 搭建静态的个人网站或公司网站
   * 利用 [Jekyll](http://jekyllcn.com/) 搭建博客系统，又多了一种写作的途径
 
+> 限制：单个网站 1 G，每月 100GB 流量或 10万请求
+
 ### 简历招牌
   * 目前很多企业会以 github 账号的情况加分
   * 提高行业知名度
@@ -83,4 +98,3 @@ Github 不仅仅是一个代码版本管理平台，更是一个知识分享、�
 * [计算机英语必备词汇](https://www.shanbay.com/wordbook/76237/)
 * [Awesome github](https://github.com/AntBranch/awesome-github)
 * [知乎精华贴](https://www.zhihu.com/question/20070065)
-* [Github上都有哪些有用但不为大家熟知的小功能](https://www.zhihu.com/question/36974348)
