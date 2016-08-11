@@ -3,22 +3,27 @@
 
 ## 计算机
   * 基础知识
+  * 折腾黑苹果
 
 ## 手机
   * 手机该如何选配
+  * 有哪些神级 App
 
 ## Mac
   * Keynote
+  * Mac 下有哪些神器
 
 ## 编程
   * Java
   * Nodejs
   * React
-  * React  Native
+  * React Native
   * Vue
   * Weex
+  * Swift
 
 ## 设计
+  * 摄影入门
   * Procreate / Procreate Pocket 手机绘画app
   * Affinity Designer PC 绘画设计软件
   * Affinity Photo (照片后期软件， 荣获 Apple 2015 年度最佳 Mac App）
@@ -27,8 +32,8 @@
   * Sketch
 
 ## 音乐
-  * 喜欢哪些歌手： 许冠杰、beyond、任贤齐、周杰伦
-  * Hooktheory app 乐理&编曲入门教程
+  * 喜欢哪些歌手：许冠杰、Beyond、任贤齐、周杰伦
+  * Hooktheory app 乐理&编曲入门
   * Garageband 软件
   * 吉他
  
@@ -55,7 +60,8 @@
 ## 汽车
   * 汽车如何选配
 
-## 方法论
+## 学习方法论
   * 如何快速上手一种技术
+  * [Github 简明教程](github-simple-guide.md)
 
 QQ 兴趣群： 230312939
