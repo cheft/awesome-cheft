@@ -1,6 +1,9 @@
 # awesome-cheft
 个人兴趣爱好汇总
 
+__作者: `陈海峰`，本文禁止转载，违者必究__
+
+
 ## 计算机
   * 基础知识
   * 折腾黑苹果
@@ -23,20 +26,25 @@
   * Swift
 
 ## 设计
-  * 摄影入门
   * Procreate / Procreate Pocket 手机绘画app
   * Affinity Designer PC 绘画设计软件
   * Affinity Photo (照片后期软件， 荣获 Apple 2015 年度最佳 Mac App）
     * 一台湾哥们[学习笔记](http://pala.tw/begin-to-learn-affinity-photo/)
-    * 国内中文[视频教程](http://tieba.baidu.com/p/4618299526)，持续更新中
+    * 国内中文[视频教程](http://tieba.baidu.com/p/4618299526)，持续更新...
   * Sketch
+
+## 摄影
+  * 摄影入门
+
+## 写作
+  * [Markdown 简明教程](Markdown简明教程.md)
 
 ## 音乐
   * 喜欢哪些歌手：许冠杰、Beyond、任贤齐、周杰伦
   * Hooktheory app 乐理&编曲入门
   * Garageband 软件
   * 吉他
- 
+
 ## 游戏
   * LOL
   * 炉石传说
@@ -62,6 +70,6 @@
 
 ## 学习方法论
   * 如何快速上手一种技术
-  * [Github 简明教程](github-simple-guide.md)
+  * [Github 简明教程](Github简明教程.md)
 
 QQ 兴趣群： 230312939
