@@ -94,7 +94,7 @@ Github 不仅仅是一个代码版本管理平台，更是一个知识分享、�
 
 ## 相关学习资料
 * [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [Markdown 简明指南](https://github.com/cheft/awesome-cheft/blob/master/markdown-simple-guide.md)
+* [Markdown 简明指南](Markdown简明教程.md)
 * [计算机英语必备词汇](https://www.shanbay.com/wordbook/76237/)
 * [Awesome github](https://github.com/AntBranch/awesome-github)
 * [知乎精华贴](https://www.zhihu.com/question/20070065)
