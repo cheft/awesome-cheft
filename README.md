@@ -20,10 +20,19 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
   * Java
   * Nodejs
   * React
-  * React Native
   * Vue
-  * Weex
   * Swift
+  * 移动端支持原生跨平台开发方式
+   * [React Native](https://github.com/facebook/react-native) - Javascript
+   * [Native Script](https://github.com/NativeScript/NativeScript) - Typescript
+   * [Weex](https://github.com/alibaba/weex) - Javascript
+   * [Flutter](https://github.com/flutter/flutter) - Dart
+   * [Xamarin](https://www.xamarin.com/) - C#
+   * [Fuse](https://www.fusetools.com/) - Javascript、C#
+   * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - JSON
+   * [CREO](http://creolabs.com/) - 设计
+   * [Deviceone](http://www.deviceone.net/) - Javascript
+   * ...
 
 ## 设计
   * Procreate / Procreate Pocket 手机绘画app
