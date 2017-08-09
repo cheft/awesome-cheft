@@ -71,10 +71,10 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
 
 ## 音乐
   * 喜欢的歌手
-    香港：许冠杰、谭咏麟、林子祥、张国荣、Beyond、张学友等
-    台湾：任贤齐、周杰伦、邰正宵
-    大陆：后弦、胡歌
-    国外：Michael Jackson、Backstreet Boys、Westlife、Lady gaga
+    * 香港：许冠杰、谭咏麟、林子祥、张国荣、Beyond、张学友等
+    * 台湾：任贤齐、周杰伦、邰正宵
+    * 大陆：后弦、胡歌
+    * 国外：Michael Jackson、Backstreet Boys、Westlife、Lady gaga
   * 编曲：Hooktheory app 乐理&编曲入门、Garageband 软件
   * 吉他
 
