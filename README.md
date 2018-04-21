@@ -39,7 +39,7 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
     * ...
    
 ## UI 设计
-  * Sketch/Figma
+  * Sketch/Figma
   * PS/AI
   * Procreate / Procreate Pocket 手机绘画app
   * Affinity Designer PC 绘画设计软件
@@ -96,7 +96,7 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
   * 炉石传说
   * 守望先锋
   * 王者荣耀
-  * 绝地求生/刺激战场
+  * 绝地求生/刺激战场
 
 ## 影视
   * 美剧有哪些值得看
