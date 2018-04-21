@@ -7,28 +7,28 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
 
 # 工作专业
 ## 计算机折腾
-  * 基础原理
-  * 电脑选购
-  * 折腾黑苹果
-  * Mac 神器
+  * 基础原理
+  * 电脑选购
+  * 黑苹果
+  * Mac 神器
   
 ## 产品工具
-  * Keynote
-  * XMind
-  * Sketch/Figma
+  * Keynote
+  * XMind
+  * Sketch/Figma
 
 ## 编程技术
-  * Java/Kotlin
-  * C#/Unity3D
   * Javascript/React/Vue/Node.js
+  * Java/Kotlin
+  * C#/Unity3D
   * Swift
   * Rust
   * 原生跨平台开发 App
     * [React Native](https://github.com/facebook/react-native) - Javascript
     * [Native Script](https://github.com/NativeScript/NativeScript) - Javascript、Typescript
     * [小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/) - Javascript
-    * [快应用](https://www.quickapp.cn/) - Javascript
-    * [Xamarin](https://www.xamarin.com/) - C#
+    * [快应用](https://www.quickapp.cn/) - Javascript
+    * [Xamarin](https://www.xamarin.com/) - C#
     * [Weex](https://github.com/alibaba/weex) - Javascript
     * [Fuse](https://www.fusetools.com/) - Javascript、C#
     * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - JSON
@@ -39,6 +39,7 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
     * ...
    
 ## UI 设计
+  * Sketch/Figma
   * PS/AI
   * Procreate / Procreate Pocket 手机绘画app
   * Affinity Designer PC 绘画设计软件
@@ -66,7 +67,7 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
   * 手机摄影
 
 ## 数码产品
-  * 手机选配
+  * 手机选配
     * 渐褪去的苹果 
     * 领先的三星
     * 傲骄的华为
@@ -77,9 +78,9 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
     * 另类的锤子
     * 渐遗忘的HTC
     * 其它
-  * 数码相机
+  * 数码相机
   * Kindle
-  * 智能家电相关
+  * 智能家电相关
 
 ## 音乐
   * 喜欢的歌手
