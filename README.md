@@ -7,11 +7,10 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
 
 # 工作专业
 ## 计算机折腾
-  * 基础原理
+  * 计算机科学原理
+  * 图形学
   * 电脑选购
-  * Mac 神器
-  * Docker＆K8S
-  * 黑苹果
+  * 黑苹果＆Mac神器
   * 游戏汉化
   * 各种操作系统
  
@@ -20,12 +19,9 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
   * XMind
   * Sketch/Figma
 
-## 编程技术
-  * Javascript/React/Vue/Node.js
-  * Java/Go
-  * C#/Unity3D
+## 前端技术
+  * Javascript/React/Vue
   * Swift
-  * Rust
   * 原生跨平台开发 App
     * [React Native](https://github.com/facebook/react-native) - Javascript
     * [Native Script](https://github.com/NativeScript/NativeScript) - Javascript、Typescript
@@ -39,7 +35,23 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
     * [CREO](http://creolabs.com/) - 设计
     * [supernova](https://supernova.studio/) - 设计
     * [Deviceone](http://www.deviceone.net/) - Javascript
-    * ...
+    
+## 后端技术
+  * Java/Node.js/Go/Rust
+  * Docker/K8S/Istio
+  * Kafka/RocketMQ/SQS
+  * Mysql/Mongodb/Redis
+  * HTTP/Websocket/GRPC
+
+
+## 游戏学习
+  * [Games101图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+  * [OpenGL入门](https://learnopengl-cn.github.io/)
+  * [Shader入门](https://thebookofshaders.com/?lan=ch)
+  * 三个重量级: Unreal & Unity & Godot 
+  * JS游戏引擎: Cocos Creator & LayaAir & Egret & Phaser
+  * 其它优秀引擎: Heaps & Defold & MonoGame & Ebiten
+  * 其它不需要编码：RPG Maker & Clickteam Fusion ...
    
 ## UI 设计
   * Sketch/Figma
@@ -101,7 +113,7 @@ __作者: `陈海峰`，本文禁止转载，违者必究__
   * 塞尔达系列之荒野之息
   * 超级玛丽奥系列
   * XBox 360 ＆ Switch
-  * LOL
+  * LOL/手游
   * 炉石传说
   * 守望先锋
   * 王者荣耀
